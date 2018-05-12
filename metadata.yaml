@@ -1,0 +1,40 @@
+_repo: The-Forgotten-Planet_41637
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41637-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Leinster, Murray
+    aliases:
+    - Jenkins, Will
+    - Jenkins, William Fitzgerald
+    birthdate: 1896
+    deathdate: 1975
+    gutenberg_agent_id: '7321'
+    url: http://www.gutenberg.org/2009/agents/7321
+    wikipedia: http://en.wikipedia.org/wiki/Murray_Leinster
+description: "The Forgotten Planet is a science fiction novel by American writer Murray\
+  \ Leinster. It was released in 1954 by Gnome Press in an edition of 5,000 copies.\
+  \ The novel is a fix-up from three short stories, \"The Mad Planet\" and \"The Red\
+  \ Dust\", both of which had originally appeared in the magazine Argosy in 1920 and\
+  \ 1921, and \"Nightmare Planet\", which had been published in Science Fiction Plus\
+  \ in 1953.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2012-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41637'
+  wikidata: Q7734835
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: The Forgotten Planet
+url: http://www.gutenberg.org/ebooks/41637
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Forgotten_Planet
+- https://it.wikipedia.org/wiki/Il_pianeta_dimenticato
