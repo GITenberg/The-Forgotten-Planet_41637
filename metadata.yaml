@@ -20,6 +20,8 @@ description: "The Forgotten Planet is a science fiction novel by American writer
   \ Dust\", both of which had originally appeared in the magazine Argosy in 1920 and\
   \ 1921, and \"Nightmare Planet\", which had been published in Science Fiction Plus\
   \ in 1953.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41637#The-Forgotten-Planet
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2012-12-16'
 gutenberg_type: Text
